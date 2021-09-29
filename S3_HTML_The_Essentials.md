@@ -20,7 +20,10 @@
     - *<img>* element - embeds an image
     - *<form>* element - represents a form
 - Define the Element in a form with opening an dclosing tag:
-    - < p > I am a paragraph </ p >
+    ```
+    <p> I am a paragraph </p>
+    ```
+
 ## What do HTML/CSS/JS do?
 - HTML: the content of the page
 - CSS: describes that structure and how it should look
@@ -36,4 +39,68 @@
 ## Paragraph Element
 - add the < p > and the ending tag to start and end a paragraph
 ## Heading Element
-- ![1_headings]()
+![1_headings](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/1_HTML_Headings.PNG)
+
+## HTML Boilerplate (HTML Skeleton)
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Document title</title>
+  </head>
+  <body>
+    <p>This is a paragraph</p>
+  </body>
+</html>
+```
+- title: not show up on page. But 1) show on the tab, and 2) google use it to show the link (what shows up when you google it)
+- One head one body
+- In vscode, input "!", then press tab, it will give you the skeleton!.
+- Also, vscode can help you format the document! You can set auto format as well.
+
+## List element
+- OL (ordered list): numbers
+- UL (unordered list): bullet points
+```
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+```
+- Example of nested list:
+```
+<ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+```
+
+## Anchor tags
+- Anchlor tags: creates a hyperlink to web pages, files, email addresses...
+
+```
+<p>You can reach Michael at:</p>
+
+<ul>
+  <li><a href="https://example.com">Website</a></li>
+  <li><a href="mailto:m.bluth@example.com">Email</a></li>
+  <li><a href="tel:+123456789">Phone</a></li>
+</ul>
+```
+
+## Image element
+```
+<img src="location of your image">
+```
+
+## Comment
+```
+<!-- Comment section -->
+```
