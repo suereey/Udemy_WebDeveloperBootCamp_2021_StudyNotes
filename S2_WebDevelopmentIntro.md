@@ -28,3 +28,7 @@
 - Calculator example:
     - Only HTML: the number key, the reset key
     - HTML + CSS: KEY + format (looks better but no calculation)
+
+- Resources for developers: TIP: Mozilla Developer Network
+    - [resourcefordeveloper](https://developer.mozilla.org/en-US/)
+    - [elemetns](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
