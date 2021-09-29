@@ -20,4 +20,15 @@
     - *<img>* element - embeds an image
     - *<form>* element - represents a form
 - Define the Element in a form with opening an dclosing tag:
-    **<p> I am a paragraph </p>**
+    <p> I am a paragraph </p>
+## What do HTML/CSS/JS do?
+- HTML: the content of the page
+- CSS: describes that structure and how it should look
+- JS: building the acutal logic, the action, the verbs of the webpage
+- Calculator example:
+    - Only HTML: the number key, the reset key
+    - HTML + CSS: KEY + format (looks better but no calculation)
+
+- Resources for developers: TIP: Mozilla Developer Network
+    - [resourcefordeveloper](https://developer.mozilla.org/en-US/)
+    - [elemetns](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
