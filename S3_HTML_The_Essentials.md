@@ -20,7 +20,7 @@
     - *<img>* element - embeds an image
     - *<form>* element - represents a form
 - Define the Element in a form with opening an dclosing tag:
-    <p> I am a paragraph </p>
+    - < p > I am a paragraph </ p >
 ## What do HTML/CSS/JS do?
 - HTML: the content of the page
 - CSS: describes that structure and how it should look
@@ -32,3 +32,8 @@
 - Resources for developers: TIP: Mozilla Developer Network
     - [resourcefordeveloper](https://developer.mozilla.org/en-US/)
     - [elemetns](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+## Paragraph Element
+- add the < p > and the ending tag to start and end a paragraph
+## Heading Element
+- ![1_headings]()
