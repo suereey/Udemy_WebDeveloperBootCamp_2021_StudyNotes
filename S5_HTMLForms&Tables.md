@@ -74,7 +74,7 @@ table, th, td {
 </body>
 </html>
 ```
-![04]()
+![04](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/4_Table.PNG)
 
 ## HTML Form, input, label, button
 - Form: represents a document section containing interactive controls for submitting information.
@@ -102,7 +102,7 @@ table, th, td {
         <input type="checkbox" name="peas" id="peas">
     </div>
 
-    ![05]()
+    ![05](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/5_Form.PNG)
     
     - button: If you have a button in a form, the default action will be submit the form.
     - name
