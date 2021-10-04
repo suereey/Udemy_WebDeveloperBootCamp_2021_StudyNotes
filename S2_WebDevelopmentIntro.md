@@ -21,14 +21,3 @@
     For example,after a request is send, google need to figure out: what are the researh result? How do I rank them? How many are theere? How many pages we need to make? Who is asking for this? have the permission? what about the ad?....
 - Front end: the code it send runs in my browser (the client side or front end code: HTML, CSS, JS).
 
-## What do HTML/CSS/JS do?
-- HTML: the content of the page
-- CSS: describes that structure and how it should look
-- JS: building the acutal logic, the action, the verbs of the webpage
-- Calculator example:
-    - Only HTML: the number key, the reset key
-    - HTML + CSS: KEY + format (looks better but no calculation)
-
-- Resources for developers: TIP: Mozilla Developer Network
-    - [resourcefordeveloper](https://developer.mozilla.org/en-US/)
-    - [elemetns](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
