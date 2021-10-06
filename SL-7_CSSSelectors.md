@@ -143,3 +143,10 @@ p {
 }
 ```
 - **inherent property**
+    - automatically
+    - set up:
+    ```
+    button {
+        color: inherit
+    }
+    ```
