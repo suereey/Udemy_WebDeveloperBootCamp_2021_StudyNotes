@@ -131,4 +131,15 @@ hs::first-letter{
 - CSS Cascade: the order you styles are declared and linked to matters!
     - order matter
 - WTF is specified
-## TIP: Chrome Development Tools & CSS
+- Example
+![specificity](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/6_Specificity.PNG)
+- **Order**: **!important > inline-stype > ID > Class > Element**
+- [Specificty calculator](https://specificity.keegan.st/)
+- **Inline style is more specific then ID!**, but avoid to use
+- !important: the most important. avoid to use as well
+```
+p {
+  background-color: red !important;
+}
+```
+- **inherent property**
