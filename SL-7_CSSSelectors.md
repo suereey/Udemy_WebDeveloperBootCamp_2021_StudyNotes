@@ -19,23 +19,18 @@
 selector{
     property: value;
 }
-```
 
-    - simple example:
-
-    ```
-    h1{
-        color: purple;
-    }
-    ```
+h1{
+    color: purple;
+}
 
     - complex exmaple: select every other text input and give it a red border
-    
-    ```
-    input[type = "text"]:nth-of-type(2n){
-        border:2px solid red;
-    }
-    ```
+
+```
+input[type = "text"]:nth-of-type(2n){
+    border:2px solid red;
+}
+```
 ## Universal & Element Selectors
 - Universal selector: select all element
     ```
