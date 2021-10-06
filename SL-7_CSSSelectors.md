@@ -23,6 +23,7 @@ selector{
 h1{
     color: purple;
 }
+```
 
     - complex exmaple: select every other text input and give it a red border
 
