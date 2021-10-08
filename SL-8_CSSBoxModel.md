@@ -36,16 +36,16 @@
 
 ## Box Model: Padding and Margin
 - Padding:
-    - ![10]()
+    - ![10](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/10.PNG)
     - properties:
-        ![11]()
+        ![11](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/11.PNG)
 
         ```
         padding-right: 50px;
         ```
 
     - shorthand property:
-        ![12]()
+        ![12](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/12.PNG)
 
         ```
         button{
@@ -53,7 +53,10 @@
         }
         ```
 - Margin:
-    - ![12]()
+    - ![13](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/13.PNG)
     - properties
+        ![14]()
+    - shorthand properties
+        ![15]()
 
 ## The Display Property
