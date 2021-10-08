@@ -55,8 +55,32 @@
 - Margin:
     - ![13](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/13.PNG)
     - properties
-        ![14]()
+        ![14](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/14.PNG)
     - shorthand properties
-        ![15]()
+        ![15](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/15.PNG)
 
 ## The Display Property
+- property
+![16]()
+
+```
+display: inline
+```
+
+## CSS Units Revisited
+- Two types:
+    ![17]()
+    - In absolute unite: px most commonly used.![18]()
+    - In reletive:
+        - Percentage
+        ![19]()
+        - em
+        ![20]()
+        - rem
+        ![21]()
+        - vw & vh
+        ![22]()
+
+
+- ems
+- rems
