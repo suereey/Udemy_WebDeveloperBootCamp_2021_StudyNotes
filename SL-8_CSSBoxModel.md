@@ -61,7 +61,7 @@
 
 ## The Display Property
 - property
-![16]()
+![16](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/16.PNG)
 
 ```
 display: inline
@@ -69,17 +69,17 @@ display: inline
 
 ## CSS Units Revisited
 - Two types:
-    ![17]()
-    - In absolute unite: px most commonly used.![18]()
+    ![17](https://github.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/blob/main/screenshot/17.PNG)
+    - In absolute unite: px most commonly used.![18](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/18.PNG)
     - In reletive:
         - Percentage
-        ![19]()
+        ![19](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/19.PNG)
         - em
-        ![20]()
+        ![20](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/20.PNG)
         - rem
-        ![21]()
+        ![21](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/21.PNG)
         - vw & vh
-        ![22]()
+        ![22](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/22.PNG)
 
 
 - ems
