@@ -86,4 +86,8 @@ Rather than accessing data using an index, we use custom keys.
 
 ## Dictionary
 - Using an object (Key-value pair)
-![23]()
+![23](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/23.PNG)
+
+```
+fitBigData["avgCalorieBurn"] //returns the 5755
+```
