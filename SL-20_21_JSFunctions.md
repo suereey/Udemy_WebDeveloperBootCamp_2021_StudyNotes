@@ -97,4 +97,65 @@ const mystery = makeMysteryFunc()
 We can add functions as properties on objects.
 
 We call them methods!
-![25]()
+```
+const myMath = {
+    PI: 3.14159,
+    square: function(num){
+        return num*num;
+    },
+    cube: function(num){
+        return num**3;
+    }
+}
+
+myMath.PI;
+myMath.square(2);
+
+//shorthand
+const myMath = {
+    PI: 3.14159,
+    square(num){
+        return num*num;
+    },
+    cube(num){
+        return num**3;
+    }
+}
+```
+
+## **This** keyword in JS
+Use the keyword this to access other properties on the same object.
+
+The value of this depends on the invocation context of the function it is used in.
+
+```
+const cat = {
+    name: "blue steele",
+    color: "gray",
+    break: "fold",
+    meow(){
+        console.log("meow, meow, meow")
+    }
+}
+
+cat.meow() //print "meow, meow, meow"
+
+const cat = {
+    name: "blue steele",
+    color: "gray",
+    break: "fold",
+    meow(){
+        console.log("${this.name} says meow")
+    }
+}
+```
+
+## try and catch
+
+```
+try {
+    hello.toUpperCase();
+}catch{
+    console.log("Error")
+}
+```
