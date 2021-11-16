@@ -33,7 +33,7 @@ for (let i = 0; i < animals.length; i++>) {
 ```
 
 - Nested loop
-![24]()
+![24](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/24.PNG)
 
 - While loop
 

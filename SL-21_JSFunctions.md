@@ -1,8 +1,0 @@
-# JS Functions
-## Intro of function
-- FUNCTIONS are Reusable procedures
-
-- Functions allow us to write reusable, modular code
-
-- We define a "chunk" of code that we can then execute at a later point.
-
