@@ -54,11 +54,16 @@ Spread syntax allows an iterable such as an array to be expanded in places where
 - Spread Objects: Copies properties from one object into another object literal
 
 ## Rest Parameter
-Collects all remaining arguments into an actual array
+- Collects all remaining arguments into an actual array
+    - Example:
+    ![26](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/26.PNG)
 
-![26]()
-
-## Destructuring array and object
+## Destructuring array & object & parameter
 - Destructuring array: A short, clean syntax to 'unpack': Values from arrays Properties from objects Into distinct variables.
     - Example
-    ![27]()
+    ![27](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/27.PNG)
+- Destructuring object, Example:
+    ![28](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/28.PNG)
+
+- Destructuring parameter, Example:
+    ![29]()
