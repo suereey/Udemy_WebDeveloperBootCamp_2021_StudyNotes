@@ -66,4 +66,4 @@ Spread syntax allows an iterable such as an array to be expanded in places where
     ![28](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/28.PNG)
 
 - Destructuring parameter, Example:
-    ![29]()
+    ![29](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/29.PNG)
