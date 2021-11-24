@@ -13,7 +13,8 @@ The  document object is our entry point into the world of the DOM. It contains r
 
 ![30](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/30.PNG)
 
-## getElementById
+## Select Element
+### getElementById
 Select elements. For example: make all links blue
 
 getElementById
@@ -32,7 +33,7 @@ const toc = document.getElementById('toc')
 console.dir(toc)
 ```
 
-## Query Selector
+### Query Selector
 - Select one
 ```
 //Finds first h1 element:
@@ -56,3 +57,11 @@ document.querySelectorAll('p')
 //select all the anchlor tag inside the paragraph
 document.querySelectorAll('p a')
 ```
+
+## Manipulate
+- Important ones
+![31](https://raw.githubusercontent.com/suereey/Udemy_WebDeveloperBootCamp_2021_StudyNotes/main/screenshot/31.PNG)
+
+    - innerText
+    - textContent (slightly different from innerText): Show EVERYTHING; when content set as not displya, textContent still show, but innerText doesn't
+    - innerHTML
