@@ -9,6 +9,7 @@ for (let link of allLinks) {
 }
 
 //Step 2 go into each link 
+//Need to figure out
 
 //extract out the author name
 const allAuthor = document.querySelector('.gsc_oci_value'); //select by class name
